@@ -1,5 +1,3 @@
-import re
-
 def encrypt(plainText, offset):
     cipherText=""
     for letter in plainText:
